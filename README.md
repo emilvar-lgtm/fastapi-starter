@@ -1,0 +1,2 @@
+# fastapi-starter
+learning project
